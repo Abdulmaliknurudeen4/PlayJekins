@@ -23,7 +23,7 @@ spec:
         app: myweb
     spec:
       containers:
-      - image: justmeandopensource/myweb:<TAG>
+      - image: fireboy30/myweb:<TAG>
         imagePullPolicy: Always
         name: myweb
 
